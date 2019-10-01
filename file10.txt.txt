@@ -1,6 +1,2 @@
 This is file10.txt
-<<<<<<< HEAD
-Changing on laptop
-=======
-Changing on github
->>>>>>> 1ba5a04a4c001ce5b5dc443ed524fda9107ab468
+Changing on laptop and github
